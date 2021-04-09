@@ -2,7 +2,7 @@
 1.first commit => .editorconfig 추가 p.258
 
 
-
+===================================================
 git add .
 
 git commit -m "메세지"
