@@ -5,12 +5,10 @@
 </template>
 
 <script>
-   export default {
-    el: '#app'
-  }
+export default {
+  el: '#app'
+}
 </script>
-
-
 
 <style>
 

@@ -5,10 +5,12 @@
 </template>
 
 <script>
+
 export default {
-  name:'LoginPage'
+  name: 'LoginPage'
 }
 </script>
 
 <style>
+
 </style>
