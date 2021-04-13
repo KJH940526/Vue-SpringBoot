@@ -8,7 +8,7 @@
 /* 주석은 양옆으로 한칸 비우기 */
 // 이렇게
 export default {
-  el: '#app'
+  el: 'App'
 }
 </script>
 

@@ -1,8 +1,8 @@
 import moxios from 'moxios'
 import registrationService from '@/service/registration'
 //4번 라인부터 11번라인까지는 각 테스트를 위한 목을 생성하고 사용한 목을 제거한다.
-describe('services/registration',()=>{ 
-    beforeEach(()=>{
+describe('service/registration',()=>{ 
+    beforeEach(()=>{  // 목 : test를 하기위해 만든 가짜 객체
         moxios.install()
     })
 
